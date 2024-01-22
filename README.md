@@ -6,6 +6,14 @@ I'm a developer from <em><strong>South Korea</strong></em> 🇰🇷
 <!-- 현재 일하는 곳/사는 곳 -->
 I'm working on [<em><strong>@kidsnote</strong></em>](https://github.com/kidsnote) [<em><strong>@sm-victor</strong></em>](https://github.com/sm-victor)
 
+<!-- 간단한 내 소개-->
+### About Me
+<p>
+💼 I am a 10-year experienced developer proficient in Java and Python.</br>
+🌱 I excel at making any change work in my favor.</br>
+🎯 I enjoy solving problems and am committed to resolving them with persistence.</br>
+</p>
+
 <!-- 주력(Active) 언어 -->
 I'm interested by
 <p>
