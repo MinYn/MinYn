@@ -4,7 +4,7 @@
 I'm a developer from <em><strong>South Korea</strong></em> 🇰🇷
 
 <!-- 현재 일하는 곳/사는 곳 -->
-I'm working on <em><strong>@kidsnote</strong></em> <em><strong>@sm-victor</strong></em>
+I'm working on [<em><strong>@kidsnote</strong></em>](https://github.com/kidsnote) [<em><strong>@sm-victor</strong></em>](https://github.com/sm-victor)
 
 <!-- 주력(Active) 언어 -->
 I'm interested by
