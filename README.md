@@ -8,16 +8,17 @@ I'm working on <em><strong>@kidsnote</strong></em> <em><strong>@sm-victor</stron
 
 <!-- 주력(Active) 언어 -->
 I'm interested by
-
+<p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-message?style=flat-square&logo=python&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Django-message?style=flat-square&logo=django&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-message?style=flat-square&logo=FastAPI&color=gray">
-
+</br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring-message?style=flat-square&logo=Spring&color=gray">
+</p>
 
 <!-- 경험 했던 언어 -->
-I'm experienced by<br/>
-
+I'm experienced by
+<p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-message?style=flat-square&logo=python&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-message?style=flat-square&logo=Java&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-message?style=flat-square&logo=Kotlin&color=gray">
@@ -25,16 +26,14 @@ I'm experienced by<br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/ASP-message?style=flat-square&logo=ASP&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/ASP%20.net-message?style=flat-square&logo=.net&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/VisualBasic-message?style=flat-square&logo=visualbasic&color=gray">
-
+<br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Django-message?style=flat-square&logo=django&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-message?style=flat-square&logo=FastAPI&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring-message?style=flat-square&logo=Spring&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/React-message?style=flat-square&logo=React&color=gray">
 <img alt="Static Badge" src="https://img.shields.io/badge/Ionic-message?style=flat-square&logo=Ionic&color=gray">
-
-
+</p>
 <!-- TODO: 내 취미 -->
-
 </center>
 
 <!--
