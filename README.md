@@ -60,6 +60,10 @@ Here are some ideas to get you started:
 
 > :warning: **Warning:** Do not push the big red button.
 
+This is my recent activity.
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 참조 URL
 - 아이콘: https://shields.io/badges
 -->
