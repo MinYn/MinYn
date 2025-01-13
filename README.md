@@ -44,6 +44,10 @@ I'm experienced by
 <!-- TODO: 내 취미 -->
 </center>
 
+This is my recent activity.
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **MinYn/MinYn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,10 +63,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 > :warning: **Warning:** Do not push the big red button.
-
-This is my recent activity.
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 참조 URL
 - 아이콘: https://shields.io/badges
