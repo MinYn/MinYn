@@ -46,6 +46,7 @@ I'm experienced by
 
 This is my recent activity.
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1363](https://github.com/tfranzel/drf-spectacular/issues/1363) in [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular)
 <!--END_SECTION:activity-->
 
 <!--
