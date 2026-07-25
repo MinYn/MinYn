@@ -46,7 +46,7 @@ I'm experienced by
 
 This is my recent activity.
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#21](https://github.com/MinYn/kakao_game/issues/21) in [MinYn/kakao_game](https://github.com/MinYn/kakao_game)
+1. 🔒 Closed issue [#23](https://github.com/MinYn/kakao_game/issues/23) in [MinYn/kakao_game](https://github.com/MinYn/kakao_game)
 <!--END_SECTION:activity-->
 
 <!--
