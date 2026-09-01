@@ -46,7 +46,7 @@ I'm experienced by
 
 This is my recent activity.
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/MinYn/kakao_game/issues/23) in [MinYn/kakao_game](https://github.com/MinYn/kakao_game)
+1. 🗣 Commented on [#423](https://github.com/mbillow/localthings/issues/423#issuecomment-5475028680) in [mbillow/localthings](https://github.com/mbillow/localthings)
 <!--END_SECTION:activity-->
 
 <!--
