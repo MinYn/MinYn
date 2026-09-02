@@ -46,7 +46,7 @@ I'm experienced by
 
 This is my recent activity.
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#423](https://github.com/mbillow/localthings/issues/423#issuecomment-5475028680) in [mbillow/localthings](https://github.com/mbillow/localthings)
+1. 🗣 Commented on [#424](https://github.com/mbillow/localthings/issues/424#issuecomment-5491889496) in [mbillow/localthings](https://github.com/mbillow/localthings)
 <!--END_SECTION:activity-->
 
 <!--
