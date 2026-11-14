@@ -46,7 +46,7 @@ I'm experienced by
 
 This is my recent activity.
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#424](https://github.com/mbillow/localthings/issues/424#issuecomment-5491889496) in [mbillow/localthings](https://github.com/mbillow/localthings)
+1. 🚀 Published release [AgentPet 0.0.1](https://github.com/MinYn/agent-pet/releases/tag/v0.0.1) in [MinYn/agent-pet](https://github.com/MinYn/agent-pet)
 <!--END_SECTION:activity-->
 
 <!--
